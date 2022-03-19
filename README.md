@@ -1,20 +1,25 @@
-- 👋 Hi, I’m @Andreas3333
-- 🌱 I’m currently Computer Science Student at Kent State University
--  I have spent time as a Bacholers student completing course work in 
--  DataBase Modeling/Design, Data Structures and Algorithms, Computer 
--  Architecture, Operating Systems, Networking, Formal Language,
--  Discrete Mathmatics, and Software Engeneering.
-
+- 👋 Hello, I’m @Andreas3333
+- 🌱 A Bacholers student pursuing a degree in Computer
+-  Science Student at Kent State University with a 
+-  concentration in Data Engineering.
+-  
+-  My course work is as follows:
+-  DataBase Modeling and Design, Big Data Anylitics,
+-  Data Mining Techniques, Graph and Social Network Analysis,
+-  Computer Architecture, Operating Systems, Comp. Comunication Networks,
+-  Structure of Programming Languages, Discrete Mathmatics, 
+-  Software Engeneering, and Data Structures and Algorithms.
+-
 - I have expericnce with C, C++, Python, JavaScript,
-- HTML, CSS, SQL, Git and GitHub, Subversion, and Commandline Interface.
-
+- HTML, CSS, SQL, Git and GitHub, Subversion, and Commandline.
+-
 - My intrests related to Computers and Computing are Database and
-- Softwaer Design Implimentation.
-
+- Design Implimentation.
+-
 - I am looking to gain experince with Apache HTTP Servers, and 
 - continue to develop my abilities knowlage and skills in the field of 
 - technoligy and Computer Science.
-
-
+-
+-
 - I also spend free time researching BlockChain Technologies and have 
 - experimented with Solidity. 
