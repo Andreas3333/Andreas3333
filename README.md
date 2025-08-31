@@ -11,6 +11,6 @@
 
 #### Github
 
-![Andreas3333's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Andreas3333&theme=prussian&show_icons=true&hide_border=true&layout=compact)
+[![andreas3333-top-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreas3333&theme=prussian&&layout=donut&langs_count=20)](https://github.com/andreas3333/github-readme-stats)
 
 </details>
