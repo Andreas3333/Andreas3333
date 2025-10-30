@@ -5,6 +5,7 @@
 
 [![linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=plastic)](https://www.linkedin.com/in/andreasschaler/)
 [![personal-site](https://img.shields.io/badge/Checkout%20my%20personal%20site!-blue)](https://andreas3333.github.io/andreas-schaler/)
+[![huggingface-account](https://img.shields.io/badge/🤗%20Huggingface%20account!-white)](https://huggingface.co/aschaler)
 
 <details>
 <summary>Show my Github Stats</summary>
