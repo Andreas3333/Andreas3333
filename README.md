@@ -4,8 +4,12 @@
 <img src="./waves.svg" style="border-radius: 25px;padding: 15px;">
 
 [![linkedin](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&style=plastic)](https://www.linkedin.com/in/andreasschaler/)
+[![huggingface-account](https://img.shields.io/badge/🤗%20Huggingface%20account-white)](https://huggingface.co/aschaler)
 [![personal-site](https://img.shields.io/badge/Checkout%20my%20personal%20site!-blue)](https://andreas3333.github.io/andreas-schaler/)
-[![huggingface-account](https://img.shields.io/badge/🤗%20Huggingface%20account!-white)](https://huggingface.co/aschaler)
+
+#### 🔭 I’m currently working on
+
+- [example-trainings](https://github.com/Andreas3333/example-trainings)
 
 <details>
 <summary>Show my Github Stats</summary>
