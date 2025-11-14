@@ -9,7 +9,7 @@
 
 #### 🔭 I’m currently working on
 
-- [example-trainings](https://github.com/Andreas3333/example-trainings)
+- [model-training](https://github.com/Andreas3333/model-training)  -  `A repository of model trainings for various tasks.`
 
 <details>
 <summary>Show my Github Stats</summary>
